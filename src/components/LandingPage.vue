@@ -15,7 +15,7 @@
           <span style="color: aquamarine;">linkedin</span>
         </a>
         <a href="https://www.instagram.com/its_venugr22_?igsh=MWxiNjVvbjN5dTU1NA==" target="_blank">
-           <span >instagram</span>
+           <span style="color: aquamarine;">instagram</span>
         </a>
       </div>
     </div>
