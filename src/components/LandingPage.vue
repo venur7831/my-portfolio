@@ -11,11 +11,11 @@
     <div class="home-section">
       <h1>Venu R</h1>
       <div class="social-links">
-        <a href="https://www.linkedin.com/in/venur7831" target="_blank">
-          linkedin
+        <a href="https://www.linkedin.com/in/venu-r-a6232b1b1" target="_blank">
+          <span style="color: aquamarine;">linkedin</span>
         </a>
-        <a href="https://www.instagram.com/venur7831" target="_blank">
-           instagram
+        <a href="https://www.instagram.com/its_venugr22_?igsh=MWxiNjVvbjN5dTU1NA==" target="_blank">
+           <span >instagram</span>
         </a>
       </div>
     </div>
